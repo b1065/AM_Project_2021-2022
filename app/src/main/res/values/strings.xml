@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Losu Losu</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="loading">Ładowanie...</string>
+    <string name="placeholder">Bardzo Przyjemny Placeholder</string>
+    <string name="gamename">LOSULOSU</string>
+    <string name="givelogin">Podaj login</string>
+    <string name="givepassword">Podaj hasło</string>
+    <string name="login">Zaloguj</string>
+    <string name="register">Zarejestruj</string>
+    <string name="scoreboard">Tablica wyników</string>
+    <string name="givenumber">Podaj liczbę!</string>
+    <string name="forbidden">Jeżeli to widzisz, to coś się zepsuło</string>
+    <string name="shot">STRZAŁ</string>
+    <string name="newgame">NOWA GRA</string>
+    <string name="shotcount">Liczba strzałów:</string>
+    <string name="pointsum">Suma punktów:</string>
+    <string name="x">X</string>
+    <string name="logout">WYLOGUJ SIĘ</string>
+    <string name="scoreboard2">TABLICA WYNIKÓW</string>
+    <string name="back">Powrót</string>
+    <string name="score">Score</string>
+</resources>
